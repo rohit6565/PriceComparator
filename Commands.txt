@@ -1,0 +1,7 @@
+$ git config --global user.name "your username"
+$ git config --global user.email "your email"
+$ git init
+$ git add .
+$ git commit -m "Your change-specific message"
+$ git remote add origin <ssh url.git>
+$ git push origin mmaster
